@@ -1,0 +1,6 @@
+{
+  "name": "Neural Core 神经内核",
+  "description": "致力于全量监控神经网络、自动化派生子智能体、多模型网关分流调度和3D数字孪生高真虚拟办公室的未来感高能管控中枢台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
